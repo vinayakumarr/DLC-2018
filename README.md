@@ -1,4 +1,4 @@
-# DLC-2018
+# Tutorials for two days workshop on deep learning for cyber security - VIT, Chennai
 
 # Deep learning for cyber security
 
